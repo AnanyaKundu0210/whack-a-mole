@@ -1,1 +1,2 @@
-# whack-a-mole
+# Whack-A-Mole
+Whack A Mole online game
